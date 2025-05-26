@@ -8,6 +8,9 @@ Durante el curso puedes aprender los fundamentos de desarrollo web back-end, Nod
 ## 🔸 Conocimiento Previo y Herramientas
 
 Para tomar el curso, debes tener conocimiento previo de **JavaScript** ya que Node.js es un entorno de ejecución de JavaScript. 
+![Arrow Function](https://img.shields.io/badge/arrow_function-%230000.svg?style=for-the-badge&logo=node.js&logoColor=%00dd00)
+![Methods](https://img.shields.io/badge/methods-%23000.svg?style=for-the-badge&logo=node.js&logoColor=%00dd00)
+![Objects](https://img.shields.io/badge/objects-%23000.svg?style=for-the-badge&logo=node.js&logoColor=%00dd00)
 
 Se recomienda tener conocimento previo de funciones flecha, métodos, objetos, `.map()`, `.filter()`, `require()`, `.findIndex()`, y `.sort()`.
 
@@ -21,7 +24,6 @@ Los temas están enfocados en un concepto específico. Aquí están dividos en c
 
 
 #### Introducción a Node.js y Conceptos Básicos
-
 * Introducción a Node.js.
 * Conceptos básicos de desarrollo web back-end. 
 * Aplicaciones de Node.js.
